@@ -1,2 +1,2 @@
-# test-repository
-A test for learning github
+# Test Repository
+A test for learning github in deskopt and app
